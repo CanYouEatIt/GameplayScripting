@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Git Projects/GameplayScripting/GSNew/Content/Game01-Maze/Maze_Map.umap",
+				"D:/Git Projects/GameplayScripting/GSNew/Content/_Practical_Sessions/Blueprints/BP_Light.uasset",
+				"D:/Git Projects/GameplayScripting/GSNew/Content/_Practical_Sessions/Practical_Session_Map.umap",
+				"D:/Git Projects/GameplayScripting/GSNew/Content/_Practical_Sessions/Variable_Types.uasset",
+				"D:/Git Projects/GameplayScripting/GSNew/Content/Blueprints/Variable_Types.uasset"
+			]
+		}
+	]
+}
